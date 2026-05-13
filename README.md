@@ -1,8 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════
-     JEAN-PAUL-SV — GitHub Profile README
-     Biomechanical Interface v1.0
-     ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
@@ -11,8 +6,8 @@
 ║  ░                                                              ░░  ║
 ║  ░   ⬡    J E A N   P A U L   ◈   J E A N - P A U L - S V    ⬡  ░  ║
 ║  ░                                                              ░░  ║
-║  ░        ▓ B A C K E N D   A R C H I T E C T ▓               ░░  ║
-║  ░        ░ J A V A · N E S T J S · S Y S T E M S ░            ░░  ║
+║  ░        ▓  B A C K E N D   A R C H I T E C T  ▓             ░░  ║
+║  ░        ░  J A V A · N E S T J S · S Y S T E M S  ░          ░░  ║
 ║  ░                                                              ░░  ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -45,7 +40,7 @@
 ![Odoo](https://img.shields.io/badge/Odoo-0f0f1a?style=for-the-badge&logo=odoo&logoColor=50a890&labelColor=0f0f1a&color=28284a)
 ![Spring](https://img.shields.io/badge/Spring-0f0f1a?style=for-the-badge&logo=spring&logoColor=50a890&labelColor=0f0f1a&color=28284a)
 
-![REST API](https://img.shields.io/badge/REST%20APIs-050507?style=flat-square&labelColor=1e1e34&color=1e1e34&logoColor=50a890)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-050507?style=flat-square&labelColor=1e1e34&color=1e1e34)
 ![System Design](https://img.shields.io/badge/System%20Design-050507?style=flat-square&labelColor=1e1e34&color=1e1e34)
 ![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-050507?style=flat-square&labelColor=1e1e34&color=1e1e34)
 
@@ -59,13 +54,13 @@
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Jean-Paul-SV&theme=dark&bg_color=050507&title_color=ccc0aa&text_color=a8988a&border_color=1e1e34&icon_color=50a890&show_icons=true&hide_border=false&rank_icon=github"
-  alt="GitHub Stats de Jean Paul"
+  alt="GitHub Stats"
   height="165"
 />
 &nbsp;&nbsp;
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Paul-SV&theme=dark&bg_color=050507&title_color=ccc0aa&text_color=a8988a&border_color=1e1e34&layout=compact&hide_border=false"
-  alt="Lenguajes más usados"
+  alt="Top Languages"
   height="165"
 />
 
